@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "359510791306",
+    "firebase_url": "https://forecastie-10387.firebaseio.com",
+    "project_id": "forecastie-10387",
+    "storage_bucket": "forecastie-10387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359510791306:android:00eda874a0fdb1b7",
+        "android_client_info": {
+          "package_name": "com.example.shiva.try1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359510791306-iupe6r8rqlpd6vlknlv0lhc3ma1fa9lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shiva.try1",
+            "certificate_hash": "ecbb4ba944bdaf04f093749b33f6b85141bf6487"
+          }
+        },
+        {
+          "client_id": "359510791306-6fne32e7auf4r7c30mhk918egr656uci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMgNXanIEuMVR-lK1cBcCoviaxZ9lMzhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359510791306-6fne32e7auf4r7c30mhk918egr656uci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359510791306:android:2beb8e065facf93b",
+        "android_client_info": {
+          "package_name": "cz.martykan.forecastie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359510791306-8jsomqafnu0b9kkflmo4v5bkulnj7g8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.martykan.forecastie",
+            "certificate_hash": "12efff24096533006f4ede185296f5a857730147"
+          }
+        },
+        {
+          "client_id": "359510791306-tm20puhir0aqp0nlcgvrti9t0o04e67r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.martykan.forecastie",
+            "certificate_hash": "ecbb4ba944bdaf04f093749b33f6b85141bf6487"
+          }
+        },
+        {
+          "client_id": "359510791306-6fne32e7auf4r7c30mhk918egr656uci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMgNXanIEuMVR-lK1cBcCoviaxZ9lMzhQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359510791306-6fne32e7auf4r7c30mhk918egr656uci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
